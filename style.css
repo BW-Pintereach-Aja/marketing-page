@@ -24,6 +24,17 @@ body {
   
   .sidenav a:hover {
     color: #f1f1f1;
+
+  }
+
+ .about{
+     text-decoration: none;
+     font-size: 25px;
+     margin-top: 200px;
+ }
+
+ .about a:hover {
+    color:#fddb3a
   }
 
   .button {
